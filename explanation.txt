@@ -1,0 +1,8 @@
+created algorithms for commonly used activation functions like Relu etc 
+ReLUなどの一般的に使用される活性化関数のアルゴリズムを作成しました。
+
+
+
+
+
+
